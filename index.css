@@ -1,0 +1,31 @@
+body{
+    background-color: whitesmoke !important;
+}
+
+.row{
+    margin-top: 150px !important;
+}
+
+h1{
+    font-size: 60px !important;
+    color: #3a86ff !important;
+    font-weight: 650 !important;
+}
+
+#face_desc{
+    font-size: 25px;
+    font-weight: 530;
+}
+
+input{
+    margin-top: 10px !important;
+}
+
+button{
+    margin-top: 15px !important;
+}
+
+form{
+    background-color: white; padding: 20px; border-radius: 5px !important;
+}
+
